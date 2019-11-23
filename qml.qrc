@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>quit.png</file>
+        <file>content/Clock.qml</file>
+        <file>content/clocks.qml</file>
+        <file>content/arrow.png</file>
+        <file>content/background.png</file>
+        <file>content/center.png</file>
+        <file>content/quit.png</file>
+        <file>content/second.png</file>
+        <file>content/manometer.png</file>
+        <file>content/termometro.png</file>
+        <file>content/balanca.png</file>
+    </qresource>
+</RCC>
